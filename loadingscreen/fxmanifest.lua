@@ -16,6 +16,6 @@ files {
 	'html/assets/music.mp3'
 }
 
-loadscreen_manual_shutdown 'yes'
+--loadscreen_manual_shutdown 'yes'
 
 client_script 'client/client.lua'
